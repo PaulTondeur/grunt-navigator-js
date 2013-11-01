@@ -1,0 +1,31 @@
+{
+  "name": "grunt-navigator-js",
+  "description": "Navigator.js utilities for grunt",
+  "version": "0.0.1",
+  "author": "Paul Tondeur <paul@paultondeur.nl>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PaulTondeur/grunt-navigator-js.git"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "navigator-js": "~0.4.2",
+    "amdefine": "~0.1.0",
+    "lodash": "~2.2.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "grunt",
+    "navigator",
+    "states",
+    "navigator.js",
+    "navigator-js"
+  ]
+}
