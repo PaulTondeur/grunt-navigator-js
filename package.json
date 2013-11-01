@@ -12,11 +12,11 @@
   },
   "dependencies": {
     "navigator-js": "~0.4.2",
-    "amdefine": "~0.1.0",
     "lodash": "~2.2.1"
   },
   "devDependencies": {
-    "grunt": "~0.4.0"
+    "grunt": "~0.4.0",
+    "amdefine": "~0.1.0"
   },
   "peerDependencies": {
     "grunt": "~0.4.0"
